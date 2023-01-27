@@ -1,0 +1,4 @@
+class first
+{
+   code 1
+}
